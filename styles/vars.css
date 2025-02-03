@@ -1,0 +1,16 @@
+:root {
+    /* Font */
+    --font-montserrat: "Montserrat";
+
+    /* Colors */
+    --primary-color: #f6561c;
+    --primary-color-variation: #f6561c;
+    --secondary-color: #111135;
+    --secondary-color-variation: #111135;
+    --Tertiary-color: #000024 ;
+
+    /* Font Colors */
+    --primary-font-color: #ffffff;
+    --secondary-font-color: #ffffff;
+    --Tertiary-font-color: #ffffff;
+}
